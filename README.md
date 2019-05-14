@@ -1,7 +1,7 @@
 # lletrejador
 Lletrejador amb paraules aleatòries de català
 
-[![current version 0.1](https://img.shields.io/badge/ALB%20current%20version-0.1-brightgreen.svg)](http://proshare.epizy.com)
+[![current version 0.1](https://img.shields.io/badge/Current%20version-0.1-brightgreen.svg)](http://proshare.epizy.com)
 
 
 Realitzat amb Python 3 (versions anteriors també funcionen) i el diccionari de català de la plataforma Apertium (https://github.com/apertium/apertium-cat/blob/master/apertium-cat.cat.dix).
