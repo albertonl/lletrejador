@@ -34,7 +34,7 @@ while finished==False:
 		word = dicts[ran_num]['lm']
 	else:
 		continue
-	print(word)	
+	print(word)
 	print("\n")
 	word = word.lower()
 	for i in range(0,len(word)):
